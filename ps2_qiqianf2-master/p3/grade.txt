@@ -1,0 +1,3 @@
+not supposed to initialize the lock, lock was already initialized (no points lost)
+
+10/10

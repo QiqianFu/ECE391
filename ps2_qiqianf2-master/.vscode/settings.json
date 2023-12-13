@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.S": "asm-intel-x86-generic",
+        "spinlock_ece391.h": "c",
+        "solution.h": "c"
+    }
+}

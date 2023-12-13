@@ -1,0 +1,5 @@
+1) answer: print/x solution
+2) answer: x/2hx $esp
+3) answer: info reg
+4) answer: b ece.c:391
+5) answer: target remote 10.0.2.2:1234

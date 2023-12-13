@@ -1,0 +1,15 @@
+1. didn't change registers in mode_X_CRTC, which is used for splitting two screen 
+
+2. didn't spare enough space for screen bar 
+
+3. print the backgroud twice for room name and command, only print background once can solve this problem
+
+4. didn't notice the VGA only need 1/4 space for storing pixels information
+
+5. the VGA mode has double buffer framework, I overlooked that
+
+6. Overlook that A<<2 don't change A, but A<<=2 can
+
+7. Forget to reset button to 0 since the command has been done
+
+8. Didn't check whether the tux command is ABC or others, since ABC can't be continuous
