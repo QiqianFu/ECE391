@@ -2,7 +2,9 @@
 
 **For academic use, DO NOT COPY! You will get F if you copy code in ECE391** 
 
-**This work is owned by Qiqian Fu, Zaihe Zhang, Sizhao Ma, Shinan Manrico Calzoni**
+**请勿copy代码，被抓到后果挺严重的**
+
+**The MP3 work is owned by Qiqian Fu, Zaihe Zhang, Sizhao Ma, Shinan Manrico Calzoni**
 
 Please be aware that while this repository is public, the code and content within it are meant for educational and demonstration purposes only. **Copying or using this code for academic submissions is strictly prohibited and violates academic integrity policies.** By using this code, you agree to do so responsibly and ethically. As the author, I am not responsible for any violations of academic integrity or any consequences resulting from improper use of the material in this repository.
 ## § 1‑402 Academic Integrity Infractions
