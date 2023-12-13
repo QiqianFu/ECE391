@@ -1,6 +1,6 @@
 # Academic Integrity Notice
 
-**For academic use, DO NOT COPY!** 
+**For academic use, DO NOT COPY! You will get F if you copy code in ECE391** 
 
 **This work is owned by Qiqian Fu, Zaihe Zhang, Sizhao Ma, Shinan Manrico Calzoni**
 
