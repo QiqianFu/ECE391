@@ -2,7 +2,7 @@
 
 **For academic use, DO NOT COPY! You will get F if you copy code in ECE391** 
 
-**请勿copy代码，被抓到后果挺严重的**
+**请勿copy代码，被抓到后果挺严重的，抓到被记0分重修**
 
 **The MP3 work is owned by Qiqian Fu, Zaihe Zhang, Sizhao Ma, Shinan Manrico Calzoni**
 
